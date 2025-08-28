@@ -1,9 +1,11 @@
 <div align="center">
-<h1>Depth Anything V2</h1>
+<h1>MonoRelief V2: Leveraging Real Data for High-Fidelity Monocular Relief Recovery
+</h1>
 
-[**Lihe Yang**](https://liheyoung.github.io/)<sup>1</sup> · [**Bingyi Kang**](https://bingykang.github.io/)<sup>2&dagger;</sup> · [**Zilong Huang**](http://speedinghzl.github.io/)<sup>2</sup>
+[**Yu-Wei Zhang**]<sup>1</sup> · [**Tongju Han**]<sup>1&dagger;</sup> · [**Lipeng Gao**]<sup>2</sup>
 <br>
-[**Zhen Zhao**](http://zhaozhen.me/) · [**Xiaogang Xu**](https://xiaogang00.github.io/) · [**Jiashi Feng**](https://sites.google.com/site/jshfeng/)<sup>2</sup> · [**Hengshuang Zhao**](https://hszhao.github.io/)<sup>1*</sup>
+[**Mingqiang Wei**] · [**Hui Liu**] · [**Changbao Li**]<sup>2</sup> · [**Caiming Zhang
+**]<sup>1*</sup>
 
 <sup>1</sup>HKU&emsp;&emsp;&emsp;<sup>2</sup>TikTok
 <br>
