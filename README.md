@@ -14,7 +14,17 @@
 
 This work presents Depth Anything V2. It significantly outperforms [V1](https://github.com/LiheYoung/Depth-Anything) in fine-grained details and robustness. Compared with SD-based models, it enjoys faster inference speed, fewer parameters, and higher depth accuracy.
 
-![teaser](assets/teaser.png)
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <!-- 第1行 -->
+  <div><img src="https://via.placeholder.com/150x150?text=Image1" alt="Image 1"></div>
+  <div><img src="https://via.placeholder.com/150x150?text=Image2" alt="Image 2"></div>
+  <div><img src="https://via.placeholder.com/150x150?text=Image3" alt="Image 3"></div>
+  <div>
+    <video width="150" controls>
+      <source src="https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" type="video/mp4">
+      您的浏览器不支持HTML5视频
+    </video>
+  </div>
 
 
 ## News
