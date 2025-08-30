@@ -21,7 +21,8 @@ This paper presents MonoRelief V2, an end-to-end model designed for directly rec
 <img src="assets/g2_d.png" width="100"/>
 <img src="assets/g2_n.jpg" width="100"/>
 <img src="assets/g2.gif?raw=true" alt="Sublime's custom image" width="100"/>
-</center>
+</center><br>
+
 <center class="half">
 <img src="assets/g3.jpg" width="100"/>
 <img src="assets/g3_d.png" width="100"/>
@@ -31,7 +32,7 @@ This paper presents MonoRelief V2, an end-to-end model designed for directly rec
 <img src="assets/g4_d.png" width="100"/>
 <img src="assets/g4_n.jpg" width="100"/>
 <img src="assets/g4.gif?raw=true" alt="Sublime's custom image" width="100"/>
-</center>
+</center><br>
 
 ## News
 - **2025-08-28:** updata readme.
