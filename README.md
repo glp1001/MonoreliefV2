@@ -2,9 +2,9 @@
 <h1>MonoRelief V2: Leveraging Real Data for High-Fidelity Monocular Relief Recovery
 </h1>
 
-[**Yu-Wei Zhang**]<sup>1*&dagger;</sup> · [**Tongju Han**]<sup>1</sup> · [**Lipeng Gao**]<sup>1</sup>
+Yu-Wei Zhang<sup>1*&dagger;</sup> · Tongju Han<sup>1</sup> ·Lipeng Gao<sup>1</sup>
 <br>
-[**Mingqiang Wei**]<sup>2</sup> · [**Hui Liu**]<sup>3</sup> · [**Changbao Li**]<sup>1</sup> · [**Caiming Zhang**]<sup>4</sup>
+Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · Caiming Zhang<sup>4</sup>
 
 <sup>1</sup>QLU&emsp;&emsp;&emsp;<sup>2</sup>NUAA&emsp;&emsp;&emsp;<sup>3</sup>SDUFE&emsp;&emsp;&emsp;<sup>4</sup>SDU
 <br>
