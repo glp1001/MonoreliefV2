@@ -13,10 +13,24 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 This paper presents MonoRelief V2, an end-to-end model designed for directly recovering 2.5D reliefs from single images under complex material and illumination variations. In contrast to its predecessor, MonoRelief V1, which was solely trained on synthetic data, MonoRelief V2 incorporates real data to achieve improved robustness, accuracy and efffciency. To overcome the challenge of acquiring large-scale real-world dataset, we generate approximately 15,000 pseudoreal images using a text-to-image generative model, and derive corresponding depth pseudo-labels through fusion of depth and normal predictions. Furthermore, we construct a small-scale real-world dataset (800 samples) via multi-view reconstruction and detail reffnement. MonoRelief V2 is then progressively trained on the pseudo-real and real-world datasets. Comprehensive experiments demonstrate its state-of-the-art performance both in depth and normal predictions, highlighting its strong potential for a range of downstream applications. 
 
 <center class="half">
-<img src="assets/g1.jpg" width="200"/>
-<img src="assets/g1_d.png" width="200"/>
-<img src="assets/g1_n.jpg" width="200"/>
-  <img src="assets/g1.gif" width="200"/>
+<img src="assets/g1.jpg" width="100"/>
+<img src="assets/g1_d.png" width="100"/>
+<img src="assets/g1_n.jpg" width="100"/>
+<img src="assets/g1.gif?raw=true" alt="Sublime's custom image" width="100"/>
+<img src="assets/g2.png" width="100"/>
+<img src="assets/g2_d.png" width="100"/>
+<img src="assets/g2_n.jpg" width="100"/>
+<img src="assets/g2.gif?raw=true" alt="Sublime's custom image" width="100"/>
+</center>
+<center class="half">
+<img src="assets/g3.jpg" width="100"/>
+<img src="assets/g3_d.png" width="100"/>
+<img src="assets/g3_n.jpg" width="100"/>
+<img src="assets/g3.gif?raw=true" alt="Sublime's custom image" width="100"/>
+<img src="assets/g4.png" width="100"/>
+<img src="assets/g4_d.png" width="100"/>
+<img src="assets/g4_n.jpg" width="100"/>
+<img src="assets/g4.gif?raw=true" alt="Sublime's custom image" width="100"/>
 </center>
 
 ## News
