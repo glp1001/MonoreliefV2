@@ -10,6 +10,10 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 <br>
 &dagger;project lead&emsp;*corresponding author
 
+<a href="(https://arxiv.org/abs/2508.19555v1)"><img src='https://img.shields.io/badge/arXiv-monorelief V2-red' alt='Paper PDF'></a>
+<a href='Todo'><img src='https://img.shields.io/badge/pretrianModel-Monorelief V2 V2-green' alt='pretrianModel'></a>
+
+
 <p align="left">This paper presents MonoRelief V2, an end-to-end model designed for directly recovering 2.5D reliefs from single images under complex material and illumination variations. In contrast to its predecessor, MonoRelief V1, which was solely trained on synthetic data, MonoRelief V2 incorporates real data to achieve improved robustness, accuracy and efffciency. To overcome the challenge of acquiring large-scale real-world dataset, we generate approximately 15,000 pseudoreal images using a text-to-image generative model, and derive corresponding depth pseudo-labels through fusion of depth and normal predictions. Furthermore, we construct a small-scale real-world dataset (800 samples) via multi-view reconstruction and detail reffnement. MonoRelief V2 is then progressively trained on the pseudo-real and real-world datasets. Comprehensive experiments demonstrate its state-of-the-art performance both in depth and normal predictions, highlighting its strong potential for a range of downstream applications. </p>
 
 ## 
