@@ -18,66 +18,66 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 
 ## 
 <center class="half">
-<img src="assets/g1.jpg" width="150"/>
-<img src="assets/g1_n.jpg" width="150"/>
-<img src="assets/g1.gif?raw=true" alt="Sublime's custom image" width="150"/>
-<img src="assets/g2.png" width="150"/>
-<img src="assets/g2_n.jpg" width="150"/>
-<img src="assets/g2.gif?raw=true" alt="Sublime's custom image" width="150"/>
+<img src="assets/g1.jpg" width="130"/>
+<img src="assets/g1_n.jpg" width="130"/>
+<img src="assets/g1.gif?raw=true" alt="Sublime's custom image" width="130"/>
+<img src="assets/g2.png" width="130"/>
+<img src="assets/g2_n.jpg" width="130"/>
+<img src="assets/g2.gif?raw=true" alt="Sublime's custom image" width="130"/>
 </center><br>
 
 <center class="half">
-<img src="assets/g3.jpg" width="150"/>
-<img src="assets/g3_n.jpg" width="150"/>
-<img src="assets/g3.gif?raw=true" alt="Sublime's custom image" width="150"/>
-<img src="assets/g4.png" width="150"/>
-<img src="assets/g4_n.jpg" width="150"/>
-<img src="assets/g4.gif?raw=true" alt="Sublime's custom image" width="150"/>
+<img src="assets/g3.jpg" width="130"/>
+<img src="assets/g3_n.jpg" width="130"/>
+<img src="assets/g3.gif?raw=true" alt="Sublime's custom image" width="130"/>
+<img src="assets/g4.png" width="130"/>
+<img src="assets/g4_n.jpg" width="130"/>
+<img src="assets/g4.gif?raw=true" alt="Sublime's custom image" width="130"/>
 </center><br>
 
 <center class="half">
-<img src="assets/g5.jpg" width="150"/>
-<img src="assets/g5_n.jpg" width="150"/>
-<img src="assets/g5.gif?raw=true" alt="Sublime's custom image" width="150"/>
-<img src="assets/g6.jpg" width="150"/>
-<img src="assets/g6_n.jpg" width="150"/>
-<img src="assets/g6.gif?raw=true" alt="Sublime's custom image" width="150"/>
+<img src="assets/g5.jpg" width="130"/>
+<img src="assets/g5_n.jpg" width="130"/>
+<img src="assets/g5.gif?raw=true" alt="Sublime's custom image" width="130"/>
+<img src="assets/g6.jpg" width="130"/>
+<img src="assets/g6_n.jpg" width="130"/>
+<img src="assets/g6.gif?raw=true" alt="Sublime's custom image" width="130"/>
 </center><br>
 
 <center class="half">
-<img src="assets/g7.png" width="150"/>
-<img src="assets/g7_n.jpg" width="150"/>
-<img src="assets/g7.gif?raw=true" alt="Sublime's custom image" width="150"/>
-<img src="assets/g8.jpg" width="150"/>
-<img src="assets/g8_n.jpg" width="150"/>
-<img src="assets/g8.gif?raw=true" alt="Sublime's custom image" width="150"/>
+<img src="assets/g7.png" width="130"/>
+<img src="assets/g7_n.jpg" width="130"/>
+<img src="assets/g7.gif?raw=true" alt="Sublime's custom image" width="130"/>
+<img src="assets/g8.jpg" width="130"/>
+<img src="assets/g8_n.jpg" width="130"/>
+<img src="assets/g8.gif?raw=true" alt="Sublime's custom image" width="130"/>
 </center><br>
 
 <center class="half">
-<img src="assets/g9.jpg" width="150"/>
-<img src="assets/g9_n.jpg" width="150"/>
-<img src="assets/g9.gif?raw=true" alt="Sublime's custom image" width="150"/>
-<img src="assets/g10.jpg" width="150"/>
-<img src="assets/g10_n.jpg" width="150"/>
-<img src="assets/g10.gif?raw=true" alt="Sublime's custom image" width="150"/>
+<img src="assets/g9.jpg" width="130"/>
+<img src="assets/g9_n.jpg" width="130"/>
+<img src="assets/g9.gif?raw=true" alt="Sublime's custom image" width="130"/>
+<img src="assets/g10.jpg" width="130"/>
+<img src="assets/g10_n.jpg" width="130"/>
+<img src="assets/g10.gif?raw=true" alt="Sublime's custom image" width="130"/>
 </center><br>
 
 <center class="half">
-<img src="assets/g11.jpg" width="150"/>
-<img src="assets/g11_n.jpg" width="150"/>
-<img src="assets/g11.gif?raw=true" alt="Sublime's custom image" width="150"/>
-<img src="assets/g12.jpg" width="150"/>
-<img src="assets/g12_n.jpg" width="150"/>
-<img src="assets/g12.gif?raw=true" alt="Sublime's custom image" width="150"/>
+<img src="assets/g11.jpg" width="130"/>
+<img src="assets/g11_n.jpg" width="130"/>
+<img src="assets/g11.gif?raw=true" alt="Sublime's custom image" width="130"/>
+<img src="assets/g12.jpg" width="130"/>
+<img src="assets/g12_n.jpg" width="130"/>
+<img src="assets/g12.gif?raw=true" alt="Sublime's custom image" width="130"/>  
 </center><br>
 
 <center class="half">
-<img src="assets/g13.jpg" width="150"/>
-<img src="assets/g13_n.jpg" width="150"/>
-<img src="assets/g13.gif?raw=true" alt="Sublime's custom image" width="150"/>
-<img src="assets/g14.jpg" width="150"/>
-<img src="assets/g14_n.jpg" width="150"/>
-<img src="assets/g14.gif?raw=true" alt="Sublime's custom image" width="150"/>
+<img src="assets/g13.jpg" width="130"/>
+<img src="assets/g13_n.jpg" width="130"/>
+<img src="assets/g13.gif?raw=true" alt="Sublime's custom image" width="130"/>
+<img src="assets/g14.jpg" width="130"/>
+<img src="assets/g14_n.jpg" width="130"/>
+<img src="assets/g14.gif?raw=true" alt="Sublime's custom image" width="130"/>  
 </center><br>
 
 
