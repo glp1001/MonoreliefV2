@@ -83,3 +83,8 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 
 ## News
 - **2025-08-28:** updata readme.
+
+## Acknowledgements
+
+We gratefully acknowledge the following open-source projects that our work builds upon:
+- Depth-Anything-V2 ([repo](https://depth-anything-v2.github.io/)).
