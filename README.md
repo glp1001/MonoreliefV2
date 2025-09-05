@@ -109,4 +109,23 @@ python relief_test.py
 
 We gratefully acknowledge the following open-source projects that our work builds upon:
 - Depth-Anything-V2 ([repo](https://depth-anything-v2.github.io/)).
-<p>
+## Citation
+
+If you find this project useful, please consider citing:
+
+```bibtex
+@article{gao2025monorelief,
+  title={MonoRelief: Recovering 2.5 D Relief from a Single Image},
+  author={Gao, Lipeng and Zhang, Yu-Wei and Wei, Mingqiang and Liu, Hui and Chen, Yanzhao and Qiu, Huadong and Zhang, Caiming},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2025},
+  publisher={IEEE}
+}
+
+@article{zhang2025monorelief,
+  title={MonoRelief V2: Leveraging Real Data for High-Fidelity Monocular Relief Recovery},
+  author={Zhang, Yu-Wei and Han, Tongju and Gao, Lipeng and Wei, Mingqiang and Liu, Hui and Li, Changbao and Zhang, Caiming},
+  journal={arXiv preprint arXiv:2508.19555},
+  year={2025}
+}
+```
