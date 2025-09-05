@@ -101,6 +101,10 @@ pip install -r requirements.txt
 
 Put the checkpoints under the `checkpoints` directory.
 
+Put the images under the `input` directory.
+```bash
+python relief_test.py
+```
 ## Acknowledgements
 
 We gratefully acknowledge the following open-source projects that our work builds upon:
