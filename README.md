@@ -80,11 +80,29 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 <img src="assets/g14.gif?raw=true" alt="Sublime's custom image" width="130"/>  
 </center><br>
 
-
+<div align="left">
+  
 ## News
 - **2025-08-28:** updata readme.
+
+## Pre-trained Models
+
+If you want the pre-trained model, please contact us via our email.
+
+## Usage
+
+### Prepraration
+
+```bash
+git clone https://github.com/glp1001/MonoreliefV2.git
+cd MonoreliefV2
+pip install -r requirements.txt
+```
+
+Put the checkpoints under the `checkpoints` directory.
 
 ## Acknowledgements
 
 We gratefully acknowledge the following open-source projects that our work builds upon:
 - Depth-Anything-V2 ([repo](https://depth-anything-v2.github.io/)).
+<p>
