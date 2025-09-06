@@ -101,10 +101,12 @@ pip install -r requirements.txt
 
 Put the checkpoints under the `checkpoints` directory.
 
-Put the images under the `input` directory.
+Put the images(1024X1024) under the `input` directory.
+
 ```bash
 python relief_test.py
 ```
+The 3D models(obj) and the normal maps will be output to the `out` directory.
 ## Acknowledgements
 
 We gratefully acknowledge the following open-source projects that our work builds upon:
