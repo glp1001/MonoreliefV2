@@ -83,10 +83,11 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
   
 ## News
 - **2025-08-28:** updata readme.
+- **2025-09-05:** Paper, code, models, are all released.
 
 ## Pre-trained Models
 
-Please contact us via our email.
+Please contact us via our email(qluglp@163.com).
 
 ## Usage
 
