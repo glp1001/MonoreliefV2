@@ -141,7 +141,6 @@ if __name__ == '__main__':
         print(f'Progress {k+1}/{len(filenames)}: {filename}')
 
         name = os.path.join(args.outdir, os.path.splitext(os.path.basename(filename))[0] + '.png')
-        # 如果发现文件夹包含了name的浮雕深度图，则跳过
         if os.path.exists(name):
             continue
 
