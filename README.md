@@ -87,7 +87,7 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 
 ## Pre-trained Models
 
-Soon
+Coming soon
 <!--Please contact us via our email(qluglp@163.com).-->
 
 ## Usage
