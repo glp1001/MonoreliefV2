@@ -84,30 +84,7 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 ## News
 - **2025-08-28:** updata readme.
 - **2025-09-05:** Paper, code, models, are all released.
-
-## Pre-trained Models
-
-Coming soon
-<!--Please contact us via our email(qluglp@163.com).-->
-
-## Usage
-
-### Prepraration
-
-```bash
-git clone https://github.com/glp1001/MonoreliefV2.git
-cd MonoreliefV2
-pip install -r requirements.txt
-```
-
-Put the checkpoints under the `checkpoints` directory.
-
-Put the images(1024X1024) under the `input` directory.
-
-```bash
-python relief_test.py
-```
-The 3D models(obj) and the normal maps will be output to the `out` directory.
+- **2026-06-01 :** We have upgraded MonoRelief to Version 3. If you would like to test it, please contact us via zhangyuwei_scott@126.com.
 ## Acknowledgements
 
 We gratefully acknowledge the following open-source projects that our work builds upon:
