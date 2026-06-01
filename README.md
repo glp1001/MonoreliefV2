@@ -83,7 +83,7 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
   
 ## News
 - **2025-08-28:** updata readme.
-- **2025-09-05:** Paper, code, models, are all released.
+- **2025-09-05:** Paper and codes are released.
 - **2026-06-01 :** We have upgraded MonoRelief to Version 3. If you would like to test it, please contact us via zhangyuwei_scott@126.com.
 ## Acknowledgements
 
