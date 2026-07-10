@@ -82,7 +82,7 @@ Mingqiang Wei<sup>2</sup> · Hui Liu<sup>3</sup> · Changbao Li<sup>1</sup> · C
 
 <div align="left">
 
-## Notice
+## Notices
 
 Please note that MonoRelief is designed to process relief images as input, rather than natural scene images (such as portraits of people, animals, etc.). If you wish to create relief models from realistic natural scenes, we recommend first using image editing tools like ChatGPT-Image or NanoBanana to convert your images into a relief style, and subsequently feeding them into MonoRelief for depth recovery.  
 
